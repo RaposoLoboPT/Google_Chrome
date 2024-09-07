@@ -1,12 +1,12 @@
 html {
     font-size: 10px;
     font-family: "Open Sans", sans-serif;
-    background-image: linear-gradient( to bottom right, #DE3123, #FBC10A, #249C46, #1374E9) ;
+    background-image: linear-gradient( to bottom right, #E23A2E, #FBBF12, #279847, #1A73E8) ;
 }
 body {
     width: 600px;
     margin: 0 auto;
-    background-color: #1374E9;
+    background-color: #1A73E8;
     padding: 0 20px 20px 20px;
     border: 10px solid white;
 }
@@ -23,6 +23,7 @@ p, li, a {
     line-height: 2;
     letter-spacing: 1px;
     color: white;
+    text-shadow: 1px 1px 1px black;
 }
 img {
     display: block;
